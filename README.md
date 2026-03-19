@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
-    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/youtube.png"/>
   </a>
   <a href="https://www.linkedin.com/in/pitocodev">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
