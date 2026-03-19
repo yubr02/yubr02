@@ -1,32 +1,39 @@
-<!-- MATRIX -->
+<!-- MATRIX BANNER -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/yubr02/yubr02/main/banner2.gif"
-  width="100%" height="200px" 
+  <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/banner2.gif"
+       width="100%" height="180px"
        style="object-fit: cover; filter: brightness(0.6);" />
-  </p>
+</p>
 
+<!-- SYSTEM STATUS -->
+<h2 align="center" style="color:red;">
+  >> SYSTEM ONLINE_
+</h2>
 
-<!-- GLITCH / HACKER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=30&center=true&vCenter=true&width=700&lines=>>+Pitoco+Dev_;>>+Full+Stack+Developer_;>>+System+Online_;>>+Access+Granted_" />
-</h1>
+<!-- HACKER TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=>>+Pitoco+Dev_;>>+Full+Stack+Developer_;>>+Access+Granted_" />
+</p>
 
 <!-- TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=Iniciando+sistema...;Carregando+módulos...;Conectando...;Sistema+ativo_" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=Iniciando+sistema...;Carregando+módulos...;Conectando+ao+servidor...;Sistema+ativo_" />
 </p>
 
+<!-- NAME -->
 <h1 align="center">👨‍💻 Matheus</h1>
 <p align="center">Desenvolvedor Full Stack</p>
 
+<!-- STACK -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Java+%7C+Go+%7C+React;Sempre+aprendendo+coisas+novas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Java+%7C+Go+%7C+JavaScript;React+%7C+MySQL;Sempre+aprendendo+coisas+novas" />
 </p>
 
+<!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Go%20%7C%20JS-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-FullStack-000000?style=for-the-badge&logo=ghost&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Go%20%7C%20JS-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-00ff00?style=for-the-badge"/>
 </p>
 
 ---
