@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/baner.png" width="100%" height="200px" style="object-fit: cover;" />
+<p align="center" style="position: relative;">
+  <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/baner.png" 
+       width="100%" height="200px" 
+       style="object-fit: cover; filter: brightness(0.6);" />
 </p>
 
 <h1 align="center">👨‍💻 Matheus</h1>
