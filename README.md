@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://github.com/yubr02/yubr02/blob/main/baner.png" width="100%" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Java+%7C+Go+%7C+React;Sempre+aprendendo+coisas+novas" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-Go-green?style=for-the-badge" />
