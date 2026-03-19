@@ -1,34 +1,31 @@
-<!-- MATRIX BACKGROUND -->
+<!-- MATRIX -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/banner2.gif"
        width="100%" height="180px"
-       style="object-fit: cover; filter: brightness(0.5);" />
+       style="object-fit: cover; filter: brightness(0.4);" />
 </p>
 
-<!-- GLITCH EFFECT (FAKE) -->
-<h1 align="center" style="color:red;">
-  <span style="text-shadow: 2px 0 red, -2px 0 cyan;">
+<!-- GLITCH TITLE -->
+<h1 align="center">
+  <span style="color:white; text-shadow: 3px 0 red, -3px 0 cyan;">
     >> Pitoco Dev_
   </span>
 </h1>
 
-<!-- ACCESS STATUS -->
+<!-- STATUS -->
 <h3 align="center" style="color:#00FF00;">
   ● ACCESS GRANTED
 </h3>
 
-<h3 align="center" style="color:red;">
-  ● ACCESS DENIED
-</h3>
+<!-- TERMINAL REAL -->
+<div align="center">
 
-<!-- TERMINAL SIMULATION -->
-<pre align="center" style="color:#00FF00; font-size:14px;">
-$ initializing system...
-$ loading modules...
-$ connecting to server...
-$ authentication success
-$ welcome Matheus_
-</pre>
+```bash
+root@pitoco:~# initializing system...
+root@pitoco:~# loading modules...
+root@pitoco:~# connecting to server...
+root@pitoco:~# authentication success
+root@pitoco:~# welcome Matheus_
 
 <!-- ANIMAÇÃO HACKER -->
 <p align="center">
