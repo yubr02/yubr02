@@ -6,30 +6,18 @@
 </p>
 
 <!-- GLITCH TITLE -->
-<h1 align="center">
-  <span style="color:white; text-shadow: 3px 0 red, -3px 0 cyan;">
-    >> Pitoco Dev_
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=32&center=true&vCenter=true&width=700&lines=>>+Pitoco+Dev_;System+Online_;Access+Granted_" />
+</p>
 
 <!-- STATUS -->
-<h3 align="center" style="color:#00FF00;">
-  ● ACCESS GRANTED
-</h3>
-
-<!-- TERMINAL REAL -->
-<div align="center">
-
-```bash
-root@pitoco:~# initializing system...
-root@pitoco:~# loading modules...
-root@pitoco:~# connecting to server...
-root@pitoco:~# authentication success
-root@pitoco:~# welcome Matheus_
-
-<!-- ANIMAÇÃO HACKER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=root@pitoco:~$+iniciar_sistema;carregar_modulos;conectar_servidor;acesso_concedido_" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=400&lines=●+ACCESS+GRANTED;●+ACCESS+GRANTED_" />
+</p>
+
+<!-- TERMINAL -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=18&center=true&vCenter=true&width=800&lines=root@pitoco:~$+initializing...;loading+modules...;connecting+to+server...;authentication+success;welcome+Matheus_" />
 </p>
 
 <!-- NOME -->
@@ -72,10 +60,13 @@ Sistema de farmácia online desenvolvido como TCC, com foco em acessibilidade e 
 - PHP
 - MySQL
 
-🎥 Demonstração:
-(coloque aqui seu vídeo depois)
+<h3 align="center">🎥 Demonstração do FarmaExpress</h3>
 
----
+<p align="center">
+  <video width="600" controls>
+    <source src="https://raw.githubusercontent.com/yubr02/portifolio3.0/main/src/projetos/farmaexpress.mp4" type="video/mp4">
+  </video>
+</p>
 
 ### 🛒 Sistema PDV
 Sistema de vendas com controle de estoque e gestão comercial.
