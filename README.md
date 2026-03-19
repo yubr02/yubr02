@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/baner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/baner.png" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 
 <h1 align="center">👨‍💻 Matheus</h1>
