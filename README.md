@@ -24,6 +24,23 @@
 <h1 align="center">👨‍💻 Matheus</h1>
 <p align="center">Desenvolvedor Full Stack</p>
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
+    <img 
+      alt="YouTube Subscribers" 
+      title="Inscreva-se no meu canal" 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjIdGiGUQTmUnznNelgl0wg?color=%23FF0000&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CC0000"
+    />
+  </a>
+  <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
+    <img 
+      alt="YouTube Views" 
+      title="Visualizações" 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjIdGiGUQTmUnznNelgl0wg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+    />
+  </a>
+</p>
+
 <!-- STACK -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Java+%7C+Go+%7C+JavaScript;React+%7C+MySQL;Always+learning" />
