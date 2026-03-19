@@ -33,23 +33,23 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
   </a>
 
   <a href="https://www.linkedin.com/in/pitocodev">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
   </a>
 
   <a href="https://www.instagram.com/pitocodev/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
   </a>
 
   <a href="mailto:matheus.sa.ca@hotmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40"/>
   </a>
 
   <a href="https://devpitoco.com"> 
-     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="60"/>
+     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/>
   </a>
 </p>
 <!-- BADGES -->
