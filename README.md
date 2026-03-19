@@ -38,14 +38,17 @@
     <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/youtube.png"/>
   </a>
   <a href="https://www.linkedin.com/in/pitocodev">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/social.png"/>
   </a>
   <a href="https://www.instagram.com/pitocodev/">
-    <img src="https://img.shields.io/badge/Instagram-@pitocodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/instagram.png"/>
   </a>
   <a href="mailto:matheus.sa.ca@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/outlook.png"/>
   </a>
+  <a href="https://devpitoco.com"> 
+     <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/site.png"/>
+     </a>
 </p>
 <!-- BADGES -->
 <p align="center">
