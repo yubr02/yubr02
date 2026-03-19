@@ -35,20 +35,20 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
-    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/youtube.png"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/youtube.png" width="60"/>
   </a>
   <a href="https://www.linkedin.com/in/pitocodev">
-    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/social.png"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/social.png" width="60"/>
   </a>
   <a href="https://www.instagram.com/pitocodev/">
-    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/instagram.png"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/instagram.png" width="60"/>
   </a>
   <a href="mailto:matheus.sa.ca@hotmail.com">
-    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/outlook.png"/>
+    <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/outlook.png" width="60"/>
   </a>
   <a href="https://devpitoco.com"> 
-     <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/site.png"/>
-     </a>
+     <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/site.png" width="60"/>
+  </a>
 </p>
 <!-- BADGES -->
 <p align="center">
