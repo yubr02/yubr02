@@ -123,4 +123,4 @@ Sistema de vendas com controle de estoque e gestão comercial.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yubr02&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubr02&layout=compact&theme=tokyonight"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yubr02&layout=compact&theme=tokyonight (https://github-readme-stats.vercel.app/api/top-langs/?username=yubr02&layout=compact&theme=tokyonight&langs_count=6&hide=html,css)"/>
