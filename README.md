@@ -37,6 +37,9 @@
   <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
     <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/pitocodev">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/pitocodev/">
     <img src="https://img.shields.io/badge/Instagram-@pitocodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -44,7 +47,6 @@
     <img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
-
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=ghost&logoColor=black"/>
