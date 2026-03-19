@@ -12,7 +12,7 @@
 
 <!-- STATUS -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=400&lines=●+ACCESS+GRANTED;●+ACCESS+GRANTED_" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=400&lines=●+ACCESS+GRANTED_" />
 </p>
 
 <!-- TERMINAL -->
@@ -24,26 +24,25 @@
 <h1 align="center">👨‍💻 Matheus</h1>
 <p align="center">Desenvolvedor Full Stack</p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
-    <img 
-      alt="YouTube Subscribers" 
-      title="Inscreva-se no meu canal" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjIdGiGUQTmUnznNelgl0wg?color=%23FF0000&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CC0000"
-    />
-  </a>
-  <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
-    <img 
-      alt="YouTube Views" 
-      title="Visualizações" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjIdGiGUQTmUnznNelgl0wg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-    />
-  </a>
-</p>
-
 <!-- STACK -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Java+%7C+Go+%7C+JavaScript;React+%7C+MySQL;Always+learning" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCjIdGiGUQTmUnznNelgl0wg">
+    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/pitocodev/">
+    <img src="https://img.shields.io/badge/Instagram-@pitocodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:matheus.sa.ca@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </p>
 
 <!-- BADGES -->
@@ -77,7 +76,7 @@ Sistema de farmácia online desenvolvido como TCC, com foco em acessibilidade e 
 - PHP
 - MySQL
 
-<h3 align="center">🎥 Demonstração do FarmaExpress</h3>
+🎥 Demonstração:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=-OlDu8rl1Eg">
@@ -85,11 +84,7 @@ Sistema de farmácia online desenvolvido como TCC, com foco em acessibilidade e 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=-OlDu8rl1Eg">
-    ▶️ Assistir no YouTube
-  </a>
-</p>
+---
 
 ### 🛒 Sistema PDV
 Sistema de vendas com controle de estoque e gestão comercial.
