@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Matheus%20Dev&fontSize=40&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=200&section=header&text=Pitoco%20Dev&fontSize=40&fontColor=ffffff)
 
 <p align="left">
   <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge" />
