@@ -56,7 +56,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=ghost&logoColor=black"/>
   <img src="https://img.shields.io/badge/ROLE-FULLSTACK-ff0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SYSTEM-LINUX-000000?style=for-the-badge&logo=linux&logoColor=00ff00"/>
 </p>
 
 ---
