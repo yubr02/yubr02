@@ -1,7 +1,6 @@
 <!-- MATRIX -->
 <p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="100%" height="200px"/>
-</p>
+<img src="https://raw.githubusercontent.com/yubr02/yubr02/main/banner2.gif" </p>
 
 <!-- GLITCH / HACKER -->
 <h1 align="center">
