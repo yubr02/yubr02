@@ -1,23 +1,16 @@
-<!-- MATRIX BACKGROUND -->
+<!-- MATRIX -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ2xZf3QbK/giphy.gif" width="100%" height="200px"/>
+  <img src="https://i.gifer.com/7efs.gif" width="100%" height="200px"/>
 </p>
 
-<!-- GLITCH + NEON -->
+<!-- GLITCH / HACKER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=30&center=true&vCenter=true&width=700&lines=>>+Pitoco+Dev_;>>+Full+Stack+Developer_;>>+System+Online_;>>+Access+Granted_" />
 </h1>
 
-<!-- TERMINAL STYLE -->
+<!-- TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=Iniciando+sistema...;Carregando+módulos...;Conectando+ao+servidor...;Sistema+ativo_" />
-</p>
-
-<!-- BADGES NEON -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=ghost&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ROLE-FULLSTACK-ff0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STACK-JAVA%20%7C%20GO%20%7C%20JS-000000?style=for-the-badge&logo=matrix&logoColor=00ff00"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=Iniciando+sistema...;Carregando+módulos...;Conectando...;Sistema+ativo_" />
 </p>
 
 <h1 align="center">👨‍💻 Matheus</h1>
