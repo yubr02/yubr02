@@ -63,9 +63,15 @@ Sistema de farmácia online desenvolvido como TCC, com foco em acessibilidade e 
 <h3 align="center">🎥 Demonstração do FarmaExpress</h3>
 
 <p align="center">
-  <video width="600" controls>
-    <source src="https://raw.githubusercontent.com/yubr02/portifolio3.0/main/src/projetos/farmaexpress.mp4" type="video/mp4">
-  </video>
+  <a href="https://www.youtube.com/watch?v=-OlDu8rl1Eg">
+    <img src="https://img.youtube.com/vi/-OlDu8rl1Eg/maxresdefault.jpg" width="700px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=-OlDu8rl1Eg">
+    ▶️ Assistir no YouTube
+  </a>
 </p>
 
 ### 🛒 Sistema PDV
