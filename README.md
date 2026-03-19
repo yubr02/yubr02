@@ -1,39 +1,54 @@
-<!-- MATRIX BANNER -->
+<!-- MATRIX BACKGROUND -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yubr02/yubr02/main/banner2.gif"
        width="100%" height="180px"
-       style="object-fit: cover; filter: brightness(0.6);" />
+       style="object-fit: cover; filter: brightness(0.5);" />
 </p>
 
-<!-- SYSTEM STATUS -->
-<h2 align="center" style="color:red;">
-  >> SYSTEM ONLINE_
-</h2>
+<!-- GLITCH EFFECT (FAKE) -->
+<h1 align="center" style="color:red;">
+  <span style="text-shadow: 2px 0 red, -2px 0 cyan;">
+    >> Pitoco Dev_
+  </span>
+</h1>
 
-<!-- HACKER TITLE -->
+<!-- ACCESS STATUS -->
+<h3 align="center" style="color:#00FF00;">
+  ● ACCESS GRANTED
+</h3>
+
+<h3 align="center" style="color:red;">
+  ● ACCESS DENIED
+</h3>
+
+<!-- TERMINAL SIMULATION -->
+<pre align="center" style="color:#00FF00; font-size:14px;">
+$ initializing system...
+$ loading modules...
+$ connecting to server...
+$ authentication success
+$ welcome Matheus_
+</pre>
+
+<!-- ANIMAÇÃO HACKER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=>>+Pitoco+Dev_;>>+Full+Stack+Developer_;>>+Access+Granted_" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=root@pitoco:~$+iniciar_sistema;carregar_modulos;conectar_servidor;acesso_concedido_" />
 </p>
 
-<!-- TERMINAL -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=700&lines=Iniciando+sistema...;Carregando+módulos...;Conectando+ao+servidor...;Sistema+ativo_" />
-</p>
-
-<!-- NAME -->
+<!-- NOME -->
 <h1 align="center">👨‍💻 Matheus</h1>
 <p align="center">Desenvolvedor Full Stack</p>
 
 <!-- STACK -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Java+%7C+Go+%7C+JavaScript;React+%7C+MySQL;Sempre+aprendendo+coisas+novas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Java+%7C+Go+%7C+JavaScript;React+%7C+MySQL;Always+learning" />
 </p>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack-000000?style=for-the-badge&logo=ghost&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Go%20%7C%20JS-ff0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=ghost&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROLE-FULLSTACK-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SYSTEM-LINUX-000000?style=for-the-badge&logo=linux&logoColor=00ff00"/>
 </p>
 
 ---
