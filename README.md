@@ -48,7 +48,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40"/>
   </a>
 
-  <a href="https://devpitoco.com"> 
+  <a href="https://devpitoco.com.br"> 
      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/>
   </a>
 </p>
