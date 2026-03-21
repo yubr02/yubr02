@@ -107,6 +107,14 @@ Sistema completo de chamados com triagem inteligente por IA, simulando ambiente 
 ### 🔐 Auth System com JWT
 Sistema de autenticação com geração e validação de tokens JWT, controle de acesso e proteção de rotas.
 
+## 🎥 Demonstração
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1GZxRmRjBKo">
+    <img src="https://img.youtube.com/vi/1GZxRmRjBKo/maxresdefault.jpg" width="700px"/>
+  </a>
+</p>
+
 🔗 Repositório: https://github.com/yubr02/SLAUTJWT  
 
 🔧 Tecnologias:
