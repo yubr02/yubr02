@@ -72,15 +72,71 @@ Busco constantemente evoluir minhas habilidades e adquirir experiência prática
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
-### 🏥 FarmaExpress
-Sistema de farmácia online desenvolvido como TCC, com foco em acessibilidade e praticidade.
+### 🤖 AI Help Desk System
+Sistema completo de chamados com triagem inteligente por IA, simulando ambiente real de suporte corporativo.
+
+🔗 Repositório: https://github.com/yubr02/help-desk  
 
 🔧 Tecnologias:
-- HTML, CSS, JavaScript
-- PHP
+- Python
+- FastAPI
 - MySQL
+- SQLAlchemy
+- Docker
+- OpenAI API
+
+💡 Destaques:
+- Classificação automática de chamados com IA  
+- Definição de prioridade (SLA)  
+- Sugestão de solução automática  
+- API REST estruturada  
+- Arquitetura backend profissional  
+
+🎥 Demonstração:
+
+<p align="center">
+  <a href="https://youtu.be/xtP141S4aTk">
+    <img src="https://img.youtube.com/vi/xtP141S4aTk/maxresdefault.jpg" width="700px"/>
+  </a>
+</p>
+
+---
+
+### 🔐 Auth System com JWT
+Sistema de autenticação com geração e validação de tokens JWT, controle de acesso e proteção de rotas.
+
+🔗 Repositório: https://github.com/yubr02/SLAUTJWT  
+
+🔧 Tecnologias:
+- Java / Go (se tiver os dois pode deixar)
+- JWT (JSON Web Token)
+- API REST
+
+💡 Destaques:
+- Login com autenticação segura  
+- Geração e validação de tokens  
+- Proteção de rotas privadas  
+- Estrutura base para sistemas reais  
+
+---
+
+### 🏥 FarmaExpress
+Plataforma web de farmácia online desenvolvida como TCC com foco em acessibilidade.
+
+🔗 Repositório: https://github.com/yubr02/farmaexpress  
+
+🔧 Tecnologias:
+- HTML, CSS, JavaScript  
+- PHP  
+- MySQL  
+
+💡 Destaques:
+- Sistema completo (frontend + backend)  
+- Banco de dados estruturado  
+- Projeto com impacto social  
+- Interface intuitiva  
 
 🎥 Demonstração:
 
@@ -91,17 +147,6 @@ Sistema de farmácia online desenvolvido como TCC, com foco em acessibilidade e 
 </p>
 
 ---
-
-### 🛒 Sistema PDV
-Sistema de vendas com controle de estoque e gestão comercial.
-
-🔧 Tecnologias:
-- PHP
-- MySQL
-- JavaScript
-
----
-
 ## 🤖 Tecnologias
 
 <p align="center">
