@@ -174,6 +174,5 @@ Plataforma web de farmácia online desenvolvida como TCC com foco em acessibilid
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yubr02&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yubr02&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
+  <img src="https://komarev.com/ghpvc/?username=yubr02&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" />
 </p>
