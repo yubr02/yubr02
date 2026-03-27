@@ -174,5 +174,5 @@ Plataforma web de farmácia online desenvolvida como TCC com foco em acessibilid
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yubr02&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=yubr02&theme=tokyonight&hide_border=true" />
 </p>
