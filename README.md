@@ -1,33 +1,95 @@
 <h1 align="center">Matheus Santos Carvalho</h1>
 
 <p align="center">
-  <strong>Estudante de Engenharia de Software • Desenvolvedor Back-end Júnior</strong>
+  <strong>Engenharia de Software · Back-end · Java · Go · Python</strong>
 </p>
 
 <p align="center">
-  Foco em Java, Go, APIs REST, MySQL e sistemas de gestão
+  Construo APIs, sistemas de gestão e ferramentas que resolvem problemas reais de negócio.<br/>
+  Buscando estágio ou vaga júnior em desenvolvimento back-end.
 </p>
 
 <p align="center">
-  <a href="https://devpitoco.com.br">Portfólio</a> •
-  <a href="https://www.linkedin.com/in/pitocodev">LinkedIn</a> •
-  <a href="https://github.com/yubr02">GitHub</a> •
-  <a href="mailto:matheus.sa.ca@hotmail.com">Email</a>
+  <a href="https://devpitoco.com.br">🌐 Portfólio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/pitocodev">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:matheus.sa.ca@hotmail.com">✉️ Email</a>
 </p>
 
 ---
 
-## Sobre mim
+## Projetos em destaque
 
-Sou estudante de Engenharia de Software com formação técnica em TI e foco em desenvolvimento back-end.
+### 🎫 Help Desk com Triagem Inteligente
+> Sistema de chamados com IA para simular suporte corporativo real.
 
-Tenho experiência prática com suporte técnico, organização de processos e desenvolvimento de sistemas voltados para problemas reais de negócio. Venho construindo projetos com Java, Go, Python e MySQL, com foco em APIs REST, autenticação, banco de dados e regras de negócio.
+**Stack:** `Python` `FastAPI` `MySQL` `SQLAlchemy` `Docker` `OpenAI API`
 
-Atualmente, busco oportunidade como estagiário ou desenvolvedor júnior em back-end.
+- Classificação automática de chamados por categoria
+- Definição de prioridade baseada no contexto
+- Sugestão de solução gerada por IA
+- API REST estruturada com fluxo de atendimento completo
+
+[![Repositório](https://img.shields.io/badge/Repositório-000?style=flat-square&logo=github)](https://github.com/yubr02/help-desk)
+[![Demo](https://img.shields.io/badge/Assistir_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/xtP141S4aTk)
+
+<a href="https://youtu.be/xtP141S4aTk">
+  <img src="https://img.youtube.com/vi/xtP141S4aTk/maxresdefault.jpg" width="680" alt="Preview Help Desk IA" />
+</a>
 
 ---
 
-## Stack principal
+### 🛒 Sistema PDV — Gestão de Vendas
+> Aplicação comercial completa para controle de vendas e estoque.
+
+**Stack:** `Java` `Spring Boot` `React` `MySQL`
+
+- Cadastro de produtos e controle de estoque
+- Registro e consulta de vendas
+- Regras de negócio aplicadas ao fluxo comercial
+- Persistência relacional com MySQL
+
+[![Repositório](https://img.shields.io/badge/Repositório-000?style=flat-square&logo=github)](https://github.com/yubr02/sgvpdv)
+
+<img src="https://raw.githubusercontent.com/yubr02/sgvpdv/main/.github/preview.png" width="680" alt="Preview PDV" />
+
+---
+
+### 🔐 Auth System com JWT
+> Base de autenticação segura e reutilizável para aplicações back-end.
+
+**Stack:** `Java` `Go` `JWT`
+
+- Login com geração e validação de tokens JWT
+- Proteção de rotas privadas por nível de acesso
+- Arquitetura desacoplada — pronto para integrar em qualquer projeto
+
+[![Repositório](https://img.shields.io/badge/Repositório-000?style=flat-square&logo=github)](https://github.com/yubr02/SLAUTJWT)
+[![Demo](https://img.shields.io/badge/Assistir_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=1GZxRmRjBKo)
+
+<a href="https://www.youtube.com/watch?v=1GZxRmRjBKo">
+  <img src="https://img.youtube.com/vi/1GZxRmRjBKo/maxresdefault.jpg" width="680" alt="Preview Auth JWT" />
+</a>
+
+---
+
+### 💊 FarmaExpress — TCC
+> Plataforma web para organização de pedidos de medicamentos com foco em acessibilidade.
+
+**Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+- Sistema completo com cadastro, consulta e integração com banco de dados
+- Projeto com contexto real e impacto social
+
+[![Repositório](https://img.shields.io/badge/Repositório-000?style=flat-square&logo=github)](https://github.com/yubr02/farmaexpress)
+[![Demo](https://img.shields.io/badge/Assistir_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-OlDu8rl1Eg)
+
+<a href="https://www.youtube.com/watch?v=-OlDu8rl1Eg">
+  <img src="https://img.youtube.com/vi/-OlDu8rl1Eg/maxresdefault.jpg" width="680" alt="Preview FarmaExpress" />
+</a>
+
+---
+
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
@@ -37,174 +99,36 @@ Atualmente, busco oportunidade como estagiário ou desenvolvedor júnior em back
   <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/API_REST-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge" />
 </p>
 
 ---
 
-## Projetos em destaque
-
-### Help Desk IA
-Sistema de chamados com triagem inteligente para simular um cenário real de suporte corporativo.
-
-**Stack:** Python, FastAPI, MySQL, SQLAlchemy, Docker, OpenAI API
-
-**Destaques:**
-- Classificação automática de chamados
-- Definição de prioridade
-- Sugestão de solução com IA
-- API REST estruturada
-- Fluxo de atendimento organizado
-
-**Repositório:**  
-https://github.com/yubr02/help-desk
-
-**Demonstração:**  
-https://youtu.be/xtP141S4aTk
-
-**Preview:**  
-<a href="https://youtu.be/xtP141S4aTk">
-  <img src="https://img.youtube.com/vi/xtP141S4aTk/maxresdefault.jpg" width="700" alt="Preview do projeto Help Desk IA" />
-</a>
-
-<!-- Se preferir print do projeto, troque pela imagem abaixo:
-<img src="https://raw.githubusercontent.com/yubr02/help-desk/main/.github/help-desk-preview.png" width="700" alt="Preview do projeto Help Desk IA" />
--->
-
----
-
-### Sistema PDV / Gestão de Vendas
-Sistema voltado para operação comercial, com foco em controle de vendas, cadastro de produtos e organização de dados.
-
-**Stack:** Java, React, MySQL, APIs REST
-
-**Destaques:**
-- Cadastro e consulta de dados
-- Controle de vendas e fluxo operacional
-- Persistência em banco de dados
-- Aplicação de regras de negócio
-- Projeto orientado a rotina comercial
-
-**Repositório:**  
-https://github.com/yubr02/sgvpdv
-
-**Preview:**  
-<img src="https://raw.githubusercontent.com/yubr02/sgvpdv/main/.github/preview.png" width="700" alt="Preview do sistema PDV" />
-
-<!-- Se essa imagem ainda não existir, suba um print para:
-.github/preview.png
-dentro do repositório -->
-
----
-
-### Auth System com JWT
-Sistema de autenticação com geração e validação de tokens JWT, controle de acesso e proteção de rotas.
-
-**Stack:** Java, Go, JWT, APIs REST
-
-**Destaques:**
-- Login com autenticação segura
-- Geração e validação de tokens
-- Proteção de rotas privadas
-- Base reutilizável para sistemas reais
-
-**Repositório:**  
-https://github.com/yubr02/SLAUTJWT
-
-**Demonstração:**  
-https://www.youtube.com/watch?v=1GZxRmRjBKo
-
-**Preview:**  
-<a href="https://www.youtube.com/watch?v=1GZxRmRjBKo">
-  <img src="https://img.youtube.com/vi/1GZxRmRjBKo/maxresdefault.jpg" width="700" alt="Preview do sistema JWT" />
-</a>
-
----
-
-### FarmaExpress
-Plataforma web desenvolvida como TCC com foco em acessibilidade e organização de pedidos de medicamentos.
-
-**Stack:** PHP, MySQL, HTML, CSS, JavaScript
-
-**Destaques:**
-- Sistema web com integração ao banco de dados
-- Cadastro e consulta de informações
-- Projeto com contexto real e impacto social
-- Estrutura completa de aplicação
-
-**Repositório:**  
-https://github.com/yubr02/farmaexpress
-
-**Demonstração:**  
-https://www.youtube.com/watch?v=-OlDu8rl1Eg
-
-**Preview:**  
-<a href="https://www.youtube.com/watch?v=-OlDu8rl1Eg">
-  <img src="https://img.youtube.com/vi/-OlDu8rl1Eg/maxresdefault.jpg" width="700" alt="Preview do projeto FarmaExpress" />
-</a>
-
----
-
-## Experiência
-
-### Suporte de TI / Apoio ao desenvolvimento
-Atuo com suporte técnico e apoio operacional em ambiente comercial, com foco em resolução de problemas, organização de processos e atendimento interno.
-
-Também participo do desenvolvimento de um sistema de PDV, aplicando conceitos de banco de dados, lógica de negócio e desenvolvimento de software em um contexto real de operação.
-
----
-
-## Estatísticas do GitHub
+## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yubr02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubr02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yubr02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubr02&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=yubr02&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=yubr02&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yubr02&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=yubr02&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yubr02&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yubr02&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0e75b6&style=flat" />
+  <img width="860" src="https://github-readme-activity-graph.vercel.app/graph?username=yubr02&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## Contato
+## Sobre mim
 
-<p>
-  <a href="https://devpitoco.com.br">Portfólio</a><br />
-  <a href="https://www.linkedin.com/in/pitocodev">LinkedIn</a><br />
-  <a href="https://github.com/yubr02">GitHub</a><br />
-  <a href="mailto:matheus.sa.ca@hotmail.com">matheus.sa.ca@hotmail.com</a>
+Sou estudante de Engenharia de Software com formação técnica em TI e foco em back-end. Construo projetos com Java, Go e Python voltados para problemas reais — APIs estruturadas, autenticação, regras de negócio e persistência com MySQL.
+
+Atualmente atuo com suporte de TI, o que me deu visão prática de como sistemas falham e o que os usuários realmente precisam. Busco estágio ou vaga júnior onde possa contribuir com código organizado e crescer com um time experiente.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yubr02&label=Visualizações&color=0e75b6&style=flat" />
 </p>
-
----
-
-## Observação importante
-
-Para os previews funcionarem melhor no GitHub:
-
-1. Crie uma pasta `.github` em cada repositório do projeto  
-2. Suba prints com nomes como:
-   - `.github/preview.png`
-   - `.github/dashboard.png`
-   - `.github/login.png`
-3. Se quiser algo mais forte que print, grave um GIF curto mostrando o fluxo principal do projeto
-4. Use o GIF no lugar do print, porque no README ele chama mais atenção que vídeo externo
