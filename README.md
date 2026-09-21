@@ -119,7 +119,7 @@ Meu pai me pediu um site para a empresa de energia solar dele, então fiz o proj
 
 ## [FarmaExpress](https://github.com/yubr02/farmaexpress)
 
-O FarmaExpress é meu projeto de TCC. Na parte web, usei PHP e MySQL para conectar o catálogo de medicamentos ao cadastro de usuários e aos pedidos.
+Entrei no grupo quando o tema já estava escolhido e fiquei como líder da programação. No meio do projeto, perdemos dois integrantes e restaram cinco pessoas, com apenas quatro meses até a apresentação. Dividimos as responsabilidades e eu fiquei à frente do sistema, aprendendo PHP e PySide5 em cerca de dois meses. Tivemos muitas discussões durante o caminho, mas conseguimos terminar juntos — e o FarmaExpress ainda ganhou o prêmio da noite na apresentação do TCC.
 
 ![PHP](https://img.shields.io/badge/PHP-272527?style=flat-square&logo=php&logoColor=EC2434)
 ![MySQL](https://img.shields.io/badge/MySQL-272527?style=flat-square&logo=mysql&logoColor=EC2434)
