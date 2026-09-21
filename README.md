@@ -94,7 +94,7 @@ Essa foi a primeira API que fiz. Na época, estava estudando APIs com Go e usei 
 
 ## [Login Seguro JWT](https://github.com/yubr02/auth-jwt-fullstack)
 
-Neste repositório, trabalhei a parte de autenticação: o React cuida das telas e a API em Go do cadastro, login e acesso às rotas privadas. As senhas são armazenadas com hash bcrypt.
+Fiz esse projeto enquanto estudava Java e queria melhorar meus conhecimentos sobre autenticação e segurança de senhas. Nele, pratiquei cadastro, login, proteção de rotas e armazenamento de senhas com hash.
 
 ![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
