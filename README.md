@@ -55,7 +55,7 @@ Alguns dos projetos que desenvolvi durante meus estudos:
 
 ## [Help Desk com IA](https://github.com/yubr02/help-desk)
 
-Comecei esse projeto como hobby, para praticar as automações com IA que estava estudando na época. O que mais me deu trabalho foi entender como funcionava a API da OpenAI. A ideia virou um Help Desk que usa IA para fazer a triagem dos chamados.
+Comecei esse projeto como hobby, para praticar as automações com IA que estava estudando na época. A parte mais difícil foi configurar a chave da OpenAI e fazer a integração funcionar. Com isso pronto, usei a IA para ler os chamados e ajudar na triagem antes do atendimento.
 
 ![Python](https://img.shields.io/badge/Python-272527?style=flat-square&logo=python&logoColor=EC2434)
 ![FastAPI](https://img.shields.io/badge/FastAPI-272527?style=flat-square&logo=fastapi&logoColor=EC2434)
@@ -81,7 +81,7 @@ Eu queria entender como funcionava um ponto de venda por dentro, principalmente 
 
 ## [Pedidos Fast](https://github.com/yubr02/api-de-pedidos)
 
-Essa foi a primeira API que fiz. Na época, estava estudando APIs com Go e usei um sistema de pedidos para praticar. Dá para cadastrar pedidos, consultar e atualizar o status pela interface web.
+Essa foi a primeira API que fiz. Na época, estava estudando Go e usei um sistema de pedidos para praticar. O maior desafio foi entender como organizar as rotas e proteger o acesso com JWT.
 
 ![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
 ![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
