@@ -150,16 +150,16 @@ Projeto acadêmico com catálogo, busca de medicamentos, cadastro de usuários e
 
 ---
 
-### 04 — EXPERIÊNCIA
+### 04 — EM CONSTRUÇÃO
 
-## Da rotina de suporte  
-## à lógica do sistema.
+## Começando na carreira.  
+## Evoluindo em cada projeto.
 
-Minha experiência com suporte de TI me ensinou a diagnosticar falhas, entender o impacto no usuário e buscar soluções claras. Hoje levo essa visão para o desenvolvimento de APIs, autenticação, integrações, relatórios e sistemas de gestão.
+Sou um desenvolvedor em início de carreira, construindo experiência prática por meio de projetos completos. Em cada aplicação, busco evoluir em arquitetura, APIs, interfaces, banco de dados, testes e documentação.
+
+Neste momento, procuro minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa contribuir, aprender com profissionais experientes e crescer junto com o time.
 
 ---
-
-
 
 <div align="center">
 
