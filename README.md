@@ -81,7 +81,7 @@ Fiz esse projeto para entender como funciona um ponto de venda, principalmente o
 
 ## [Pedidos Fast](https://github.com/yubr02/api-de-pedidos)
 
-Uma API de pedidos feita em Go, ligada a uma interface web. Ela acompanha o pedido desde o cadastro até a mudança de status, com login por JWT.
+Essa foi a primeira API que fiz. Na época, estava estudando APIs com Go e usei um sistema de pedidos para praticar. Dá para cadastrar pedidos, consultar e atualizar o status pela interface web.
 
 ![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
 ![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
