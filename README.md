@@ -68,7 +68,7 @@ Comecei esse projeto como hobby, para praticar as automações com IA que estava
 
 ## [Dashboard Financeiro](https://github.com/yubr02/sgvpdv)
 
-Fiz esse projeto para entender como funciona um ponto de venda, principalmente o cadastro de produtos e o controle de estoque. Foi um projeto de estudo, em que usei React e Java com Spring Boot para colocar isso em prática.
+Eu queria entender como funcionava um ponto de venda por dentro, principalmente o cadastro de produtos e o controle de estoque. Usei React e Java com Spring Boot para transformar esse estudo em um sistema funcionando.
 
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
 ![Java](https://img.shields.io/badge/Java-272527?style=flat-square&logo=openjdk&logoColor=EC2434)
@@ -94,7 +94,7 @@ Essa foi a primeira API que fiz. Na época, estava estudando APIs com Go e usei 
 
 ## [Login Seguro JWT](https://github.com/yubr02/auth-jwt-fullstack)
 
-Fiz esse projeto enquanto estudava Java e queria melhorar meus conhecimentos sobre autenticação e segurança de senhas. Nele, pratiquei cadastro, login, proteção de rotas e armazenamento de senhas com hash.
+Quando comecei a estudar Java, percebi que precisava entender melhor autenticação e segurança de senhas. Esse projeto foi a forma que encontrei de praticar login, proteção de rotas e armazenamento de senhas com hash.
 
 ![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
