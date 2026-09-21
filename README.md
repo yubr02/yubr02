@@ -68,7 +68,7 @@ Comecei esse projeto como hobby, para praticar as automações com IA que estava
 
 ## [Dashboard Financeiro](https://github.com/yubr02/sgvpdv)
 
-Aqui juntei React e Java com Spring Boot em uma aplicação de vendas e estoque. Além de registrar as vendas, dá para acompanhar os dados em gráficos e gerar relatórios.
+Fiz esse projeto para entender como funciona um ponto de venda, principalmente o cadastro de produtos e o controle de estoque. Foi um projeto de estudo, em que usei React e Java com Spring Boot para colocar isso em prática.
 
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
 ![Java](https://img.shields.io/badge/Java-272527?style=flat-square&logo=openjdk&logoColor=EC2434)
