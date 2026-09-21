@@ -55,7 +55,7 @@ Alguns dos projetos que desenvolvi durante meus estudos:
 
 ## [Help Desk com IA](https://github.com/yubr02/help-desk)
 
-Neste projeto, integrei uma API em Python à triagem de chamados por IA. A aplicação organiza os pedidos por prioridade e mantém o histórico de cada atendimento.
+Comecei esse projeto como hobby, para praticar as automações com IA que estava estudando na época. O que mais me deu trabalho foi entender como funcionava a API da OpenAI. A ideia virou um Help Desk que usa IA para fazer a triagem dos chamados.
 
 ![Python](https://img.shields.io/badge/Python-272527?style=flat-square&logo=python&logoColor=EC2434)
 ![FastAPI](https://img.shields.io/badge/FastAPI-272527?style=flat-square&logo=fastapi&logoColor=EC2434)
