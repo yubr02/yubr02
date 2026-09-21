@@ -107,7 +107,7 @@ Fiz esse projeto enquanto estudava Java e queria melhorar meus conhecimentos sob
 
 ## [AC Engenharia & Energia Solar](https://github.com/yubr02/site-nexus)
 
-Desenvolvi o site da AC Engenharia para reunir os serviços da empresa e as formas de contato. Aqui o trabalho foi mais voltado à interface, usando React e JavaScript.
+Meu pai me pediu um site para a empresa de energia solar dele, então fiz o projeto como um favor. Além de atender a uma necessidade real da empresa, ele me ajudou a aprender mais sobre landing pages e design de interfaces.
 
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
 ![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
