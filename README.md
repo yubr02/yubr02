@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,70:272527,100:EC2434&height=210&section=header&text=PITOCO.DEV&fontSize=54&fontColor=F4F1ED&fontAlignY=36&desc=CÓDIGO%20É%20A%20FERRAMENTA.%20SOLUÇÕES%20SÃO%20O%20OBJETIVO.&descSize=14&descAlignY=57&animation=fadeIn" width="100%" alt="Pitoco Dev" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,70:272527,100:EC2434&height=210&section=header&text=PITOCO.DEV&fontSize=54&fontColor=F4F1ED&fontAlignY=36&desc=Matheus%20Carvalho&descSize=14&descAlignY=57&animation=fadeIn" width="100%" alt="Pitoco Dev" />
 
 <img src="https://img.shields.io/badge/DISPONÍVEL_PARA-ESTÁGIO_E_JÚNIOR-EC2434?style=for-the-badge&labelColor=080808" alt="Disponível para estágio e oportunidades júnior" />
 
@@ -11,7 +11,7 @@
 
 “*As máquinas me surpreendem muito frequentemente.*”
 
-Eu sou **Matheus**. Transformo problemas reais em aplicações web, APIs e sistemas de gestão — conectando interfaces modernas, regras de negócio e bancos de dados.
+Sou o **Matheus**, também conhecido como Pitoco. Estudo Engenharia de Software e estou buscando minha primeira oportunidade como dev.
 
 [![Portfólio](https://img.shields.io/badge/EXPLORAR_PORTFÓLIO-EC2434?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devpitoco.com.br)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-272527?style=for-the-badge&logo=linkedin&logoColor=F4F1ED)](https://www.linkedin.com/in/pitocodev)
@@ -23,21 +23,15 @@ Eu sou **Matheus**. Transformo problemas reais em aplicações web, APIs e siste
 
 ### 01 — SOBRE MIM
 
-## Código é a ferramenta.  
-## Soluções são o objetivo.
+Gosto de entender como as coisas funcionam e aprender programando. Tenho mais interesse em back-end, principalmente com Java, Go e Python, mas também faço interfaces com React.
 
-Sou estudante de Engenharia de Software e desenvolvedor Full Stack. Gosto de tirar ideias do papel, investigar o problema por trás da tela e construir experiências que realmente funcionam.
-
-`CLAREZA` &nbsp; `IMPACTO REAL` &nbsp; `EVOLUÇÃO CONTÍNUA`
-
-**APIs & integrações** · **Sistemas web** · **Automação** · **IA aplicada**
+Aqui compartilho meus projetos e o que venho aprendendo. Ainda tenho bastante coisa para melhorar, tanto no código quanto no visual das aplicações.
 
 ---
 
 ### 02 — MINHA STACK
 
-## As ferramentas por trás  
-## do que eu construo.
+Tecnologias que uso nos meus projetos:
 
 <div align="center">
 
@@ -59,8 +53,7 @@ Sou estudante de Engenharia de Software e desenvolvedor Full Stack. Gosto de tir
 
 ### 03 — PROJETOS SELECIONADOS
 
-## Problemas reais.  
-## Produtos funcionais.
+Alguns dos projetos que desenvolvi durante meus estudos:
 
 ### 01 / FULL STACK + IA
 
@@ -150,30 +143,17 @@ Projeto acadêmico com catálogo, busca de medicamentos, cadastro de usuários e
 
 ---
 
-### 04 — EM CONSTRUÇÃO
-
-## Começando na carreira.  
-## Evoluindo em cada projeto.
-
-Sou um desenvolvedor em início de carreira, construindo experiência prática por meio de projetos completos. Em cada aplicação, busco evoluir em arquitetura, APIs, interfaces, banco de dados, testes e documentação.
-
-Neste momento, procuro minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa contribuir, aprender com profissionais experientes e crescer junto com o time.
-
----
-
 <div align="center">
 
-## Tem uma ideia?
+## Contato
 
-### Vamos construir algo memorável juntos.
-
-Estou aberto a oportunidades, projetos e boas conversas sobre tecnologia.
+Estou procurando uma vaga de estágio ou dev júnior. Se quiser conversar sobre uma oportunidade ou algum projeto, pode me chamar no LinkedIn.
 
 [![Vamos conversar](https://img.shields.io/badge/VAMOS_CONVERSAR-EC2434?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pitocodev)
 
 <br/>
 
-<sub>Projetado e desenvolvido com atenção aos detalhes · © 2026</sub>
+<sub>Matheus Carvalho · Pitoco Dev</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC2434,30:272527,100:080808&height=100&section=footer" width="100%" alt="" />
 
