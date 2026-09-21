@@ -62,86 +62,91 @@ Sou estudante de Engenharia de Software e desenvolvedor Full Stack. Gosto de tir
 ## Problemas reais.  
 ## Produtos funcionais.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 / FULL STACK + IA
 
-#### 01 / FULL STACK + IA  
-### [Help Desk com IA](https://github.com/yubr02/help-desk)
+## [Help Desk com IA](https://github.com/yubr02/help-desk)
 
-Sistema de suporte com triagem por IA, prioridades por SLA, encaminhamento e histórico de atendimento.
+Sistema de suporte com triagem por IA, prioridades por SLA, encaminhamento e histórico completo de atendimento.
 
-`Python` `FastAPI` `Jinja2` `MySQL` `Docker`
+![Python](https://img.shields.io/badge/Python-272527?style=flat-square&logo=python&logoColor=EC2434)
+![FastAPI](https://img.shields.io/badge/FastAPI-272527?style=flat-square&logo=fastapi&logoColor=EC2434)
+![MySQL](https://img.shields.io/badge/MySQL-272527?style=flat-square&logo=mysql&logoColor=EC2434)
+![Docker](https://img.shields.io/badge/Docker-272527?style=flat-square&logo=docker&logoColor=EC2434)
 
-[**CÓDIGO ↗**](https://github.com/yubr02/help-desk) · [**DEMO ↗**](https://youtu.be/xtP141S4aTk)
+[**VER CÓDIGO**](https://github.com/yubr02/help-desk) · [**ASSISTIR DEMONSTRAÇÃO**](https://youtu.be/xtP141S4aTk)
 
-</td>
-<td width="50%" valign="top">
+---
 
-#### 02 / DADOS & OPERAÇÃO  
-### [Dashboard Financeiro](https://github.com/yubr02/sgvpdv)
+### 02 / DADOS & OPERAÇÃO
 
-Gestão de vendas, produtos e estoque, com gráficos e exportação de relatórios em Excel e PDF.
+## [Dashboard Financeiro](https://github.com/yubr02/sgvpdv)
 
-`React` `Java` `Spring Boot` `MySQL`
+Sistema de gestão de vendas, produtos e estoque, com gráficos e exportação de relatórios em Excel e PDF.
 
-[**CÓDIGO ↗**](https://github.com/yubr02/sgvpdv) · [**DEMO ↗**](https://youtu.be/fXHihUuA-7o)
+![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
+![Java](https://img.shields.io/badge/Java-272527?style=flat-square&logo=openjdk&logoColor=EC2434)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-272527?style=flat-square&logo=springboot&logoColor=EC2434)
+![MySQL](https://img.shields.io/badge/MySQL-272527?style=flat-square&logo=mysql&logoColor=EC2434)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[**VER CÓDIGO**](https://github.com/yubr02/sgvpdv) · [**ASSISTIR DEMONSTRAÇÃO**](https://youtu.be/fXHihUuA-7o)
 
-#### 03 / API & PRODUTO  
-### [Pedidos Fast](https://github.com/yubr02/api-de-pedidos)
+---
 
-Gerenciamento de pedidos com criação, listagem, atualização de status e autenticação JWT.
+### 03 / API & PRODUTO
 
-`Go` `JavaScript` `MySQL` `JWT`
+## [Pedidos Fast](https://github.com/yubr02/api-de-pedidos)
 
-[**CÓDIGO ↗**](https://github.com/yubr02/api-de-pedidos) · [**DEMO ↗**](https://www.youtube.com/watch?v=Nhbe_erhdKU)
+Gerenciamento de pedidos com criação, listagem, atualização de status, persistência e autenticação JWT.
 
-</td>
-<td width="50%" valign="top">
+![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
+![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
+![MySQL](https://img.shields.io/badge/MySQL-272527?style=flat-square&logo=mysql&logoColor=EC2434)
+![JWT](https://img.shields.io/badge/JWT-272527?style=flat-square&logo=jsonwebtokens&logoColor=EC2434)
 
-#### 04 / SEGURANÇA  
-### [Login Seguro JWT](https://github.com/yubr02/auth-jwt-fullstack)
+[**VER CÓDIGO**](https://github.com/yubr02/api-de-pedidos) · [**ASSISTIR DEMONSTRAÇÃO**](https://www.youtube.com/watch?v=Nhbe_erhdKU)
 
-Cadastro, login, perfil de usuário, rotas protegidas e senhas seguras com bcrypt.
+---
 
-`Go` `React` `JWT` `MySQL`
+### 04 / SEGURANÇA
 
-[**CÓDIGO ↗**](https://github.com/yubr02/auth-jwt-fullstack) · [**DEMO ↗**](https://www.youtube.com/watch?v=1GZxRmRjBKo)
+## [Login Seguro JWT](https://github.com/yubr02/auth-jwt-fullstack)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Cadastro, login, perfil de usuário, rotas protegidas e senhas armazenadas com bcrypt.
 
-#### 05 / CLIENTE  
-### [AC Engenharia & Energia Solar](https://github.com/yubr02/site-nexus)
+![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
+![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
+![JWT](https://img.shields.io/badge/JWT-272527?style=flat-square&logo=jsonwebtokens&logoColor=EC2434)
+![MySQL](https://img.shields.io/badge/MySQL-272527?style=flat-square&logo=mysql&logoColor=EC2434)
 
-Website institucional responsivo para organizar serviços e aproximar clientes da empresa.
+[**VER CÓDIGO**](https://github.com/yubr02/auth-jwt-fullstack) · [**ASSISTIR DEMONSTRAÇÃO**](https://www.youtube.com/watch?v=1GZxRmRjBKo)
 
-`React` `JavaScript` `UX/UI`
+---
 
-[**CÓDIGO ↗**](https://github.com/yubr02/site-nexus) · [**SITE ↗**](https://acengenhariasolar.com.br)
+### 05 / CLIENTE
 
-</td>
-<td width="50%" valign="top">
+## [AC Engenharia & Energia Solar](https://github.com/yubr02/site-nexus)
 
-#### 06 / EXPERIÊNCIA WEB  
-### [FarmaExpress](https://github.com/yubr02/farmaexpress)
+Website institucional responsivo criado para apresentar serviços e aproximar clientes da empresa.
 
-Projeto acadêmico com catálogo, busca de medicamentos, cadastro de usuários e pedidos.
+![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
+![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-272527?style=flat-square&logo=figma&logoColor=EC2434)
 
-`PHP` `MySQL` `JavaScript`
+[**VER CÓDIGO**](https://github.com/yubr02/site-nexus) · [**VISITAR SITE**](https://acengenhariasolar.com.br)
 
-[**CÓDIGO ↗**](https://github.com/yubr02/farmaexpress) · [**DEMO ↗**](https://www.youtube.com/watch?v=-OlDu8rl1Eg)
+---
 
-</td>
-</tr>
-</table>
+### 06 / EXPERIÊNCIA WEB
+
+## [FarmaExpress](https://github.com/yubr02/farmaexpress)
+
+Projeto acadêmico com catálogo, busca de medicamentos, cadastro de usuários e fluxo de pedidos.
+
+![PHP](https://img.shields.io/badge/PHP-272527?style=flat-square&logo=php&logoColor=EC2434)
+![MySQL](https://img.shields.io/badge/MySQL-272527?style=flat-square&logo=mysql&logoColor=EC2434)
+![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
+
+[**VER CÓDIGO**](https://github.com/yubr02/farmaexpress) · [**ASSISTIR DEMONSTRAÇÃO**](https://www.youtube.com/watch?v=-OlDu8rl1Eg)
 
 ---
 
@@ -154,16 +159,7 @@ Minha experiência com suporte de TI me ensinou a diagnosticar falhas, entender 
 
 ---
 
-### 05 — EM NÚMEROS
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yubr02&show_icons=true&theme=transparent&hide_border=true&title_color=EC2434&icon_color=EC2434&text_color=AAA5AA" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubr02&layout=compact&theme=transparent&hide_border=true&title_color=EC2434&text_color=AAA5AA" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
 
 <div align="center">
 
