@@ -9,8 +9,6 @@
 # Desenvolvedor Full Stack  
 ## com foco em Back-end.
 
-“*As máquinas me surpreendem muito frequentemente.*”
-
 Sou o **Matheus**, também conhecido como Pitoco. Estudo Engenharia de Software e estou buscando minha primeira oportunidade como dev.
 
 [![Portfólio](https://img.shields.io/badge/EXPLORAR_PORTFÓLIO-EC2434?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devpitoco.com.br)
@@ -55,11 +53,9 @@ Tecnologias que uso nos meus projetos:
 
 Alguns dos projetos que desenvolvi durante meus estudos:
 
-### 01 / FULL STACK + IA
-
 ## [Help Desk com IA](https://github.com/yubr02/help-desk)
 
-Sistema de suporte com triagem por IA, prioridades por SLA, encaminhamento e histórico completo de atendimento.
+Neste projeto, integrei uma API em Python à triagem de chamados por IA. A aplicação organiza os pedidos por prioridade e mantém o histórico de cada atendimento.
 
 ![Python](https://img.shields.io/badge/Python-272527?style=flat-square&logo=python&logoColor=EC2434)
 ![FastAPI](https://img.shields.io/badge/FastAPI-272527?style=flat-square&logo=fastapi&logoColor=EC2434)
@@ -70,11 +66,9 @@ Sistema de suporte com triagem por IA, prioridades por SLA, encaminhamento e his
 
 ---
 
-### 02 / DADOS & OPERAÇÃO
-
 ## [Dashboard Financeiro](https://github.com/yubr02/sgvpdv)
 
-Sistema de gestão de vendas, produtos e estoque, com gráficos e exportação de relatórios em Excel e PDF.
+Aqui juntei React e Java com Spring Boot em uma aplicação de vendas e estoque. Além de registrar as vendas, dá para acompanhar os dados em gráficos e gerar relatórios.
 
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
 ![Java](https://img.shields.io/badge/Java-272527?style=flat-square&logo=openjdk&logoColor=EC2434)
@@ -85,11 +79,9 @@ Sistema de gestão de vendas, produtos e estoque, com gráficos e exportação d
 
 ---
 
-### 03 / API & PRODUTO
-
 ## [Pedidos Fast](https://github.com/yubr02/api-de-pedidos)
 
-Gerenciamento de pedidos com criação, listagem, atualização de status, persistência e autenticação JWT.
+Uma API de pedidos feita em Go, ligada a uma interface web. Ela acompanha o pedido desde o cadastro até a mudança de status, com login por JWT.
 
 ![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
 ![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
@@ -100,11 +92,9 @@ Gerenciamento de pedidos com criação, listagem, atualização de status, persi
 
 ---
 
-### 04 / SEGURANÇA
-
 ## [Login Seguro JWT](https://github.com/yubr02/auth-jwt-fullstack)
 
-Cadastro, login, perfil de usuário, rotas protegidas e senhas armazenadas com bcrypt.
+Neste repositório, trabalhei a parte de autenticação: o React cuida das telas e a API em Go do cadastro, login e acesso às rotas privadas. As senhas são armazenadas com hash bcrypt.
 
 ![Go](https://img.shields.io/badge/Go-272527?style=flat-square&logo=go&logoColor=EC2434)
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
@@ -115,11 +105,9 @@ Cadastro, login, perfil de usuário, rotas protegidas e senhas armazenadas com b
 
 ---
 
-### 05 / CLIENTE
-
 ## [AC Engenharia & Energia Solar](https://github.com/yubr02/site-nexus)
 
-Website institucional responsivo criado para apresentar serviços e aproximar clientes da empresa.
+Desenvolvi o site da AC Engenharia para reunir os serviços da empresa e as formas de contato. Aqui o trabalho foi mais voltado à interface, usando React e JavaScript.
 
 ![React](https://img.shields.io/badge/React-272527?style=flat-square&logo=react&logoColor=EC2434)
 ![JavaScript](https://img.shields.io/badge/JavaScript-272527?style=flat-square&logo=javascript&logoColor=EC2434)
@@ -129,11 +117,9 @@ Website institucional responsivo criado para apresentar serviços e aproximar cl
 
 ---
 
-### 06 / EXPERIÊNCIA WEB
-
 ## [FarmaExpress](https://github.com/yubr02/farmaexpress)
 
-Projeto acadêmico com catálogo, busca de medicamentos, cadastro de usuários e fluxo de pedidos.
+O FarmaExpress é meu projeto de TCC. Na parte web, usei PHP e MySQL para conectar o catálogo de medicamentos ao cadastro de usuários e aos pedidos.
 
 ![PHP](https://img.shields.io/badge/PHP-272527?style=flat-square&logo=php&logoColor=EC2434)
 ![MySQL](https://img.shields.io/badge/MySQL-272527?style=flat-square&logo=mysql&logoColor=EC2434)
